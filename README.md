@@ -1,4 +1,4 @@
-# ![Firefox Native Dark](logo/banner.jpg)
+# ![Firefox Native Dark](logo/title.png)
 
 *Logo credit to [@baranpirincal](https://github.com/baranpirincal).*
 
